@@ -54,3 +54,10 @@ Enter Choice: 2
 
 --- Employee List ---
 ID: 101 | Name: Alex | Salary: $55000.0
+```
+
+## 👨‍💻 Author
+
+**Narendra**
+
+*Associate System Engineer Applicant*
